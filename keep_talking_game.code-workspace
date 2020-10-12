@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Keep Talking Workspace",
+			"path": "."
+		},
+		{
+			"name": "Arduino support",
+			"path": "C:/Program Files (x86)/Arduino/hardware/arduino/avr/cores/arduino"
+		}
+	],
+	"settings": {
+		"path-intellisense.showHiddenFiles": true
+	}
+}

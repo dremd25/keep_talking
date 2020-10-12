@@ -1,0 +1,3 @@
+[submodule "arduino_ssDisplay"]
+	path = arduino_ssDisplay
+	url = https://github.com/dremd25/arduino_ssDisplay.git
