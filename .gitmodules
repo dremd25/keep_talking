@@ -1,3 +1,9 @@
 [submodule "arduino_ssDisplay"]
 	path = arduino_ssDisplay
 	url = https://github.com/dremd25/arduino_ssDisplay.git
+[submodule "arduino_asycnScheduler"]
+	path = arduino_asycnScheduler
+	url = https://github.com/dremd25/arduino_asyncScheduler.git
+[submodule "arduino_asyncScheduler"]
+	path = arduino_asyncScheduler
+	url = https://github.com/dremd25/arduino_asyncScheduler.git

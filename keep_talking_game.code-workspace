@@ -5,11 +5,23 @@
 			"path": "."
 		},
 		{
-			"name": "Arduino support",
+			"name": "Seven Segment Display",
+			"path": "./arduino_ssDisplay"
+		},
+		{
+			"name": "Arduino Core",
 			"path": "C:/Program Files (x86)/Arduino/hardware/arduino/avr/cores/arduino"
+		},
+		{
+			"name": "Arduino Variants",
+			"path": "C:/Program Files (x86)/Arduino/hardware/arduino/avr/variants/mega"
 		}
 	],
 	"settings": {
-		"path-intellisense.showHiddenFiles": true
+		"path-intellisense.showHiddenFiles": true,
+		"cSpell.words": [
+			"println",
+			"sseg"
+		]
 	}
 }
